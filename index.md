@@ -131,7 +131,7 @@ ESCARGOT :
     mot à chiffrer (BOUILLABAISSE)
 
 ![Une image contenant Police, nombre, ligne, texte Description générée
-automatiquement](media/media/image1.png){width="2.6309787839020125in"
+automatiquement](chiffrages/media/image1.png){width="2.6309787839020125in"
 height="0.38759951881014876in"}
 
 2.  Puis on additionne les rangs des lettres dans chaque colonne :
@@ -680,7 +680,7 @@ height="0.28478565179352583in"}
 
 - [⭡](#r19)![Une image contenant plante, ciel, plein air, chèvrefeuille
   Description générée
-  automatiquement](media/media/image21.png){width="0.9847222222222223in"
+  automatiquement](chiffrages/media/image21.png){width="0.9847222222222223in"
   height="0.6416666666666667in"}Note 19 : L'énigme précédente avait plus
   ou moins suggéré d'aller en Bolivie. Or Le visuel du mur faisait
   apparaître au premier plan la fleur-symbole de la nation bolivienne :
@@ -689,7 +689,7 @@ height="0.28478565179352583in"}
 
 > ![Une image contenant ciel, bâtiment, plein air, nuage Description
 > générée
-> automatiquement](media/media/image22.png){width="0.8958333333333334in"
+> automatiquement](chiffrages/media/image22.png){width="0.8958333333333334in"
 > height="0.8680555555555556in"}
 
 - [⭡](#r20)Note 20 : Le texte chiffré n'était pas fourni directement. Il
@@ -710,7 +710,7 @@ height="0.39904090113735785in"}
 
 ![Une image contenant texte, motif, capture d'écran, tissu Description
 générée
-automatiquement](media/media/image24.png){width="2.9097222222222223in"
+automatiquement](chiffrages/media/image24.png){width="2.9097222222222223in"
 height="1.776492782152231in"}
 
 - Le chercheur avait alors en mains le texte à déchiffrer vu plus haut
@@ -744,7 +744,7 @@ height="1.776492782152231in"}
   numérotés, et la musique « La belle hélène » d'Offenbach.
 
 ![Une image contenant texte, livre Description générée
-automatiquement](media/media/image26.png){width="1.4017300962379702in"
+automatiquement](chiffrages/media/image26.png){width="1.4017300962379702in"
 height="1.3652777777777778in"}
 
 > La grille de correspondance se construisait à partir des premières
