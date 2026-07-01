@@ -146,7 +146,7 @@ height="0.38759951881014876in"}
 >
 > On obtient le résultat suivant :
 >
-> ![](media/media/image2.png){width="3.1041655730533684in"
+> ![](chiffrages/media/image2.png){width="3.1041655730533684in"
 > height="0.27022856517935256in"}
 
 3.  On peut enfin convertir chacun de ces nombres en lettres de
@@ -155,7 +155,7 @@ height="0.38759951881014876in"}
 
 > On obtient alors :
 >
-> ![](media/media/image3.png){width="3.121525590551181in"
+> ![](chiffrages/media/image3.png){width="3.121525590551181in"
 > height="0.27113517060367454in"}
 >
 > Le mot BOUILLABAISSE est maintenant chiffré en GHXJDSPVFBVTW. Il
@@ -204,7 +204,7 @@ Légende : Les couleurs suivantes indiquent si la clé, le texte chiffré,
 la traduction, et l'interprétation sont directement fournies dans
 l'énoncé, ou ont demandé un traitement préalable:
 
-![](media/media/image4.png){width="4.4472462817147855in"
+![](chiffrages/media/image4.png){width="4.4472462817147855in"
 height="0.2150109361329834in"}
 
 ## Le testament de Florence B (décembre 1996)
@@ -219,7 +219,7 @@ height="0.2150109361329834in"}
 - []{#r1 .anchor}Clé[^1^](#n1) : Rodez, Château-Thierry, Briançon,
   Châtellerault, Mulhouse
 
-> ![](media/media/image5.png){width="6.434722222222222in"
+> ![](chiffrages/media/image5.png){width="6.434722222222222in"
 > height="0.29511482939632544in"}
 
 - Texte chiffré : 41, 4, 47, 12, 1, 48, 28, 52, 43, 38 15, 51, 38, 17,
@@ -238,7 +238,7 @@ height="0.2150109361329834in"}
 
 - []{#r2 .anchor}Clé[^2^](#n2) :XUEYSELRUOPELBISIVNITSELEITNESSEL
 
-![](media/media/image6.png){width="5.118055555555555in"
+![](chiffrages/media/image6.png){width="5.118055555555555in"
 height="0.24375in"}
 
 - Texte chiffré : 11, 10, 2, 8, 21, 23, 30, 4, 6, 9,1, 7, 12, 16, 21,
@@ -258,7 +258,7 @@ height="0.24375in"}
 - []{#r3 .anchor}Clé[^3^](#n3) : Boulogne, Compiègne, Moulins, Nantes,
   Quimper, Phare de Cordouan, Puy de Sancy, Laon
 
-![](media/media/image7.png){width="5.03296697287839in"
+![](chiffrages/media/image7.png){width="5.03296697287839in"
 height="0.30440179352580926in"}
 
 - []{#r4 .anchor}Texte chiffré[^4^](#n4) : 35, 47, 8, 66, 43, 58, 4, 57,
@@ -283,7 +283,7 @@ height="0.30440179352580926in"}
 - []{#r6 .anchor}Clé[^6^](#n6) :**....\_\...\_ \_ \_ \_\...\_\...\...\_
   \_ \_**
 
-> ![](media/media/image8.png){width="4.784722222222222in"
+> ![](chiffrages/media/image8.png){width="4.784722222222222in"
 > height="0.3945363079615048in"}
 
 - Texte chiffré : ECOPAVICTORS \* ELUCIDASLACUM \*
@@ -307,7 +307,7 @@ height="0.30440179352580926in"}
 
 - Clé : Liste des Argonautes (Mélampous, Héracles, \[...\], Méléagre)
 
-![](media/media/image9.png){width="5.13859908136483in"
+![](chiffrages/media/image9.png){width="5.13859908136483in"
 height="0.28478565179352583in"}
 
 - Texte chiffré :
@@ -333,7 +333,7 @@ height="0.28478565179352583in"}
 - Clé[^9^](#n9) :
   1906-1912-1917-1923-1934-1940-1945-1951-1962-1968-1973-1979-1990-1996
 
-> ![](media/media/image10.png){width="5.618055555555555in"
+> ![](chiffrages/media/image10.png){width="5.618055555555555in"
 > height="0.2995297462817148in"}
 
 - Texte chiffré :10+12 / 24+5 / 9+14+15+49+36+20 / 24+44 / 32 /
@@ -355,7 +355,7 @@ height="0.28478565179352583in"}
 - []{#r10 .anchor}Clé[^10^](#n10) : Que j'aime à faire apprendre un
   nombre utile aux sages \[...\]
 
-> ![](media/media/image11.png){width="4.344444444444444in"
+> ![](chiffrages/media/image11.png){width="4.344444444444444in"
 > height="0.26319444444444445in"}
 
 - Texte chiffré : 233, 139, 319, 281, 193, 251, 304, 183, 283, 312, 232,
@@ -389,7 +389,7 @@ height="0.28478565179352583in"}
 - []{#r12 .anchor}Clé[^12^](#n12) : Zuben Elschernali, Zuben Elgenubi;
   Brachium, Zuben Elakrab
 
-> ![](media/media/image12.emf){width="5.99201334208224in"
+> ![](chiffrages/media/image12.emf){width="5.99201334208224in"
 > height="0.2753827646544182in"}
 
 - []{#r13 .anchor}Texte chiffré[^13^](#n13) : 39-31-27-34-20-8-45-15
@@ -407,7 +407,7 @@ height="0.28478565179352583in"}
 
 - []{#r14 .anchor}Clé[^14^](#n14) :Tennesse
 
-> ![](media/media/image13.png){width="1.604430227471566in"
+> ![](chiffrages/media/image13.png){width="1.604430227471566in"
 > height="0.2990179352580927in"}
 
 - Texte chiffré : 5+9, 7-14, 1+4, 2+15, 3+5, 4+6, 8+10, 6-3, 1-12, 7-4,
@@ -435,7 +435,7 @@ height="0.28478565179352583in"}
   Freeport, Cadie, Milano, San Francisco, Praha, Kildare, Hereford,
   Atlanta, Dublin, Las Palmas, Manchester, Aberdeen)
 
-> ![](media/media/image14.png){width="5.906944444444444in"
+> ![](chiffrages/media/image14.png){width="5.906944444444444in"
 > height="0.34444444444444444in"}
 
 - Texte chiffré : « 174, 139, 41, 150, 177, 3, 30, 8, 233, 68,
@@ -487,7 +487,7 @@ height="0.28478565179352583in"}
 - []{#r22 .anchor}Clé[^22^](#n22) : Les premières lignes du livre XII de
   l'Enéide
 
-> ![](media/media/image15.png){width="6.031944444444444in"
+> ![](chiffrages/media/image15.png){width="6.031944444444444in"
 > height="0.30486111111111114in"}
 
 - Texte crypté : 147. 7. 96. \* 58. 24. 6. 1. 60., \* 68. 191. 92. 93.
@@ -629,7 +629,7 @@ height="0.28478565179352583in"}
   tableau, dont certaines cases colorées en noir devaient être ignorées,
   fournissait la solution BABINSKI
 
-> ![](media/media/image16.png){width="1.9201388888888888in"
+> ![](chiffrages/media/image16.png){width="1.9201388888888888in"
 > height="0.5840277777777778in"}
 
 **Le masque de Nefer (avril 2001) -- énigme 25**
@@ -638,7 +638,7 @@ height="0.28478565179352583in"}
   des horaires dont il fallait relever la ou les premières lettres des
   horaires en anglais 😬
 
-![](media/media/image19.png)
+![](chiffrages/media/image19.png)
 
 - [⭡](#r15)Note 15 : Le texte chiffré comportait des opérations
   arithmétiques qui devaient être utilisées de la façon suivante :
@@ -702,7 +702,7 @@ height="0.28478565179352583in"}
   - Le chercheur était dès lors en mesure de créer la table de
     correspondance suivante :
 
-![](media/media/image23.png){width="5.816666666666666in"
+![](chiffrages/media/image23.png){width="5.816666666666666in"
 height="0.39904090113735785in"}
 
 - Par ailleurs, un ensemble de briques étalées sur le sol avaient des
@@ -722,7 +722,7 @@ height="1.776492782152231in"}
   déchiffrement de Vigenère en superposant le texte chiffré et la clé
   KANTUKA (répétée autant de fois que nécessaire),
 
-> ![](media/media/image25.png){width="6.585141076115486in"
+> ![](chiffrages/media/image25.png){width="6.585141076115486in"
 > height="0.375in"}
 >
 > Il s'agissait ensuite d'ajouter les rangs alphabétiques des lettres de
@@ -777,7 +777,7 @@ height="1.3652777777777778in"}
 > Vigenère en assemblant les blocs dénués de sens et en les superposant
 > à la clé NUMERO (répétée autant de fois que nécessaire).
 >
-> ![](media/media/image27.png){width="6.520833333333333in"
+> ![](chiffrages/media/image27.png){width="6.520833333333333in"
 > height="0.2959481627296588in"}
 >
 > Il s'agissait alors d'effectuer un déchiffrage Vigenère, c'est-à-dire
